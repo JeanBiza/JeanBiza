@@ -29,15 +29,30 @@ I am a Computer Engineering student with a strong focus on Data Science and Soft
 
 ---
 
-### GitHub Statistics
+### Featured Projects
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeanBiza&show_icons=true&theme=tokyonight&count_private=true" alt="Jean's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanBiza&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
-</p>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**Price-Agent-PCFACTORY**](https://github.com/JeanBiza/Price-Agent-PCFACTORY) | Automated scraping agent built to track and analyze hardware component prices. | `Python` |
+| [**Excel-cleaner-reporter**](https://github.com/JeanBiza/Excel-cleaner-reporter) | Data normalization tool designed for cleaning and parsing administrative records. | `Python` |
+| [**Task_Manager_FullStack**](https://github.com/JeanBiza/Task_Manager_FullStack) | A complete web application featuring a robust backend and responsive UI. | `React` `FastAPI` `JavaScript` |
+---
+
+### Side Passion: Independent Game Development
+
+I am actively exploring game creation to challenge my programming logic and bring interactive ideas to life. Currently, I am expanding my skills by working across two different game engines:
+
+- **Godot Engine:** Experimenting with lightweight architectures, custom character mechanics, and state-machine logic for enemy behaviors.
+- **Unity:** Exploring component-based systems, 3D/2D environments, and diving deeper into C# optimization for gameplay loops.
 
 ---
 
-### 📬 Connect with me
-- **LinkedIn:** [Your Link Here]
-- **Email:** [Your Email Here]
+### Connect with me
+- **Email:** jampybizama21@gmail.com
+
+---
+
+### Support My Work
+If you find my projects helpful and want to support my work, feel free to buy me a coffee!
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jampyyp)
