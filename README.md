@@ -35,7 +35,7 @@ I am a Computer Engineering student with a strong focus on Data Science and Soft
 | :--- | :--- | :--- |
 | [**Price-Agent-PCFACTORY**](https://github.com/JeanBiza/Price-Agent-PCFACTORY) | Automated scraping agent built to track and analyze hardware component prices. | `Python` |
 | [**Excel-cleaner-reporter**](https://github.com/JeanBiza/Excel-cleaner-reporter) | Data normalization tool designed for cleaning and parsing administrative records. | `Python` |
-| [**Task_Manager_FullStack**](https://github.com/JeanBiza/Task_Manager_FullStack) | A complete web application featuring a robust backend and responsive UI. | `React` `FastAPI` `JavaScript` |
+| [**Task_Manager_FullStack**](https://github.com/JeanBiza/Task_Manager_FullStack) | A complete web application featuring a robust backend. | `React` `FastAPI` `JavaScript` |
 ---
 
 ### Side Passion: Independent Game Development
