@@ -8,6 +8,7 @@ I am a Computer Engineering student with a strong focus on Data Science and Soft
 - Currently studying Computer Engineering, specializing in Data Science fields.
 - Passionate about backend architecture, automation scripts, and data normalization.
 - Always looking to collaborate on interesting open-source projects and full-stack applications.
+- Exploring game development to apply data-driven concepts into NPC, enemies behavior and gameplay AI.
 
 ---
 
