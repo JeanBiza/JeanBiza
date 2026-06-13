@@ -48,6 +48,13 @@ I am actively exploring game creation to challenge my programming logic and brin
 
 ---
 
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=JeanBiza&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=JeanBiza&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=JeanBiza&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
 ### Connect with me
 - **Email:** jampybizama21@gmail.com
 
