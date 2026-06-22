@@ -31,13 +31,12 @@ I am a Computer Engineering student with a strong focus on Data Science and Soft
 ---
 
 ### Featured Projects
-
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| [**chess-outcome-classifier**](https://github.com/JeanBiza/chess-outcome-classifier) | CNN trained on Stockfish evaluations to predict chess position outcomes and suggest moves via minimax search. | `Python` `PyTorch` `FastAPI` `React` |
 | [**Price-Agent-PCFACTORY**](https://github.com/JeanBiza/Price-Agent-PCFACTORY) | Automated scraping agent built to track and analyze hardware component prices. | `Python` |
 | [**Excel-cleaner-reporter**](https://github.com/JeanBiza/Excel-cleaner-reporter) | Data normalization tool designed for cleaning and parsing administrative records. | `Python` |
 | [**Task_Manager_FullStack**](https://github.com/JeanBiza/Task_Manager_FullStack) | A complete web application featuring a robust backend. | `React` `FastAPI` `JavaScript` |
----
 
 ### Side Passion: Independent Game Development
 
