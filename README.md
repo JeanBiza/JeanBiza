@@ -56,6 +56,7 @@ I am actively exploring game creation to challenge my programming logic and brin
 
 ### Connect with me
 - **Email:** jampybizama21@gmail.com
+- **Linkedin:** www.linkedin.com/in/jean-bizama
 
 ---
 
